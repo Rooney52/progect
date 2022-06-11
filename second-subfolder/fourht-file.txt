@@ -1,1 +1,3 @@
 Владик молодец
+
+This file was modifide in the new-feature file
